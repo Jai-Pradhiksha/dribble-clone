@@ -14,3 +14,9 @@ Font Awesome
 **Usage:**
 Clone the repository and open index.html in your web browser to view the dribble clone.
 
+**Output:**
+![image](https://github.com/Jai-Pradhiksha/dribble-clone/assets/100289733/ebd5c3b0-716b-4a9d-a8da-6e4c48a9513e)
+![image](https://github.com/Jai-Pradhiksha/dribble-clone/assets/100289733/216cedb2-5fe8-467b-b9e7-949f41e89a31)
+
+
+
